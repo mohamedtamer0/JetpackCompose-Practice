@@ -5,7 +5,7 @@ Welcome to the **JetpackCompose-Practice** repository! This project serves as a 
 ## Projects
 
 ### 1. BlurEffectApp
-A simple yet effective demonstration of animated blur effects in Jetpack Compose.test
+A simple yet effective demonstration of animated blur effects in Jetpack Compose.
 
 **Features:**
 - **Dynamic Blur**: Apply a Gaussian blur effect to an image.
